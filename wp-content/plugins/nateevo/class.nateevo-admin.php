@@ -6,7 +6,7 @@ function custom_post_type() {
  
 // Set UI labels for Custom Post Type
     $labels = array(
-                'name' => 'Products',
+                'name' => __('Products','nateevo-simple-author-bio'),
                 'singular_name' => 'Products',
                 'add_new' => 'Add New',
                 'add_new_item' => 'Add New Products',

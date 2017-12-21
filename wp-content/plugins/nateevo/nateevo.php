@@ -10,8 +10,18 @@
 
 */
 
+if ( ! defined('WPINC') ) die();
+define('DCMS_SAB_PATH_TEMPLATE', dirname(__FILE__).'/template/box-author-bio.txt');
+define('NATEEVO__PLUGIN_DIR', dirname(__FILE__));
+define('NATEEVO_SAB_PATH_INCLUDE',	 dirname(__FILE__).'\includes/');
+define('NATEEVO_SAB_PATH_LANGUAGE', dirname(__FILE__).'/languages');
 
-define( 'NATEEVO__PLUGIN_DIR', dirname(__FILE__) );
+
+require_once NATEEVO_SAB_PATH_INCLUDE.'class-nateevo-simple-author-bio.php';
+
+
+new Nateevo_Simple_Author_Bio();
+
 
 /*
 * Language
