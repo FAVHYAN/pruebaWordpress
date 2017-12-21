@@ -585,14 +585,3 @@ require get_parent_theme_file_path( '/inc/customizer.php' );
  */
 require get_parent_theme_file_path( '/inc/icon-functions.php' );
 
-
-add_action('plugins_loaded', function(){ 
-    if($GLOBALS['pagenow']=='post.php'){
-        add_action('admin_print_scripts', 'my_admin_scripts');
-        add_action('admin_print_styles',  'my_admin_styles');
-    }
-});
-
- function my_admin_scripts() { wp_enqueue_script('jquery');    wp_enqueue_script('media-upload');   wp_enqueue_script('thickbox'); } 
-
- function my_admin_styles()  { wp_enqueue_style('thickbox'); }

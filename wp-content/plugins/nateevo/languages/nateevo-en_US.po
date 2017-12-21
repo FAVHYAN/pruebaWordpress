@@ -1,0 +1,161 @@
+# Copyright (C) 2017 Nateevo
+# This file is distributed under the same license as the Nateevo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nateevo 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/nateevo\n"
+"POT-Creation-Date: 2017-12-20 21:37-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-12-20 21:53-0500\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.5\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#: nateevo.php:56
+msgid "Products"
+msgstr "Products"
+
+#: nateevo.php:57
+msgid "Products news and reviews"
+msgstr "Products news and reviews"
+
+#: nateevo.php:93
+msgctxt "taxonomy general name"
+msgid "Genres"
+msgstr "Genres"
+
+#: nateevo.php:94
+msgctxt "taxonomy singular name"
+msgid "Genre"
+msgstr "Genre"
+
+#: nateevo.php:95
+msgid "Search Genres"
+msgstr "Search Genres"
+
+#: nateevo.php:96
+msgid "Popular Genres"
+msgstr "Popular Genres"
+
+#: nateevo.php:97
+msgid "All Genres"
+msgstr "All Genres"
+
+#: nateevo.php:100
+msgid "Edit Genre"
+msgstr "Edit Genre"
+
+#: nateevo.php:101
+msgid "Update Genre"
+msgstr "Update Genre"
+
+#: nateevo.php:102
+msgid "Add New Genre"
+msgstr "Add New Genre"
+
+#: nateevo.php:103
+msgid "New Genre Name"
+msgstr "New Genre Name"
+
+#: nateevo.php:104 nateevo.php:143 nateevo.php:179
+msgid "Separate writers with commas"
+msgstr "Separate writers with commas"
+
+#: nateevo.php:105 nateevo.php:144 nateevo.php:180
+msgid "Add or remove writers"
+msgstr "Add or remove writers"
+
+#: nateevo.php:106 nateevo.php:145 nateevo.php:181
+msgid "Choose from the most used writers"
+msgstr "Choose from the most used writers"
+
+#: nateevo.php:107 nateevo.php:146 nateevo.php:182
+msgid "No writers found."
+msgstr "No writers found."
+
+#: nateevo.php:108
+msgid "Genres"
+msgstr "Genres"
+
+#: nateevo.php:132
+msgctxt "taxonomy general name"
+msgid "Attributes"
+msgstr "Attributes"
+
+#: nateevo.php:133 nateevo.php:172
+msgctxt "taxonomy singular name"
+msgid "attribute"
+msgstr "attribute"
+
+#: nateevo.php:134
+msgid "Search Attributes"
+msgstr "Search Attributes"
+
+#: nateevo.php:135
+msgid "Popular Attributes"
+msgstr "Popular Attributes"
+
+#: nateevo.php:136
+msgid "All Attributes"
+msgstr "All Attributes"
+
+#: nateevo.php:139 nateevo.php:175
+msgid "Edit attribute"
+msgstr "Edit attribute"
+
+#: nateevo.php:140 nateevo.php:176
+msgid "Update attribute"
+msgstr "Update attribute"
+
+#: nateevo.php:141 nateevo.php:177
+msgid "Add New attribute"
+msgstr "Add New attribute"
+
+#: nateevo.php:142 nateevo.php:178
+msgid "New attribute Name"
+msgstr "New attribute Name"
+
+#: nateevo.php:147
+msgid "Attributes"
+msgstr "Attributes"
+
+#: nateevo.php:171
+msgctxt "taxonomy general name"
+msgid "Attribute"
+msgstr "Attribute"
+
+#: nateevo.php:183
+msgid "Attribute"
+msgstr "Attribute"
+
+#: nateevo.php:269
+msgid "Campos Adicionales"
+msgstr "Campos Adicionales"
+
+#: nateevo.php:282
+msgid "Selecciona Fecha"
+msgstr "Selecciona Fecha"
+
+#: nateevo.php:315
+msgid "Texto Enriquecido"
+msgstr "Texto Enriquecido"
+
+#. Plugin Name of the plugin/theme
+msgid "Nateevo"
+msgstr "Nateevo"
+
+#. Plugin URI of the plugin/theme
+msgid "testing"
+msgstr "testing"
+
+#. Description of the plugin/theme
+msgid "Wordpress testing, multilanguage support"
+msgstr "Wordpress testing, multilanguage support"
+
+#. Author of the plugin/theme
+msgid "Favhyan"
+msgstr "Favhyan"
